@@ -1,0 +1,18 @@
+.navbar-txt{
+    background-color: black;
+    
+}
+.nav-brand{
+    display: inline-block;
+    color: rgb(217, 243, 234);
+    margin-right: 100%;
+}
+.nav-menu{
+    display: inline-block;
+    color:aquamarine;
+    margine:0px 10px;
+
+}
+.m{
+    margin: 30px;
+}
